@@ -1,0 +1,18 @@
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\bin\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.exe
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\bin\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.deps.json
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\bin\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.runtimeconfig.json
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\bin\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.dll
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\bin\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.pdb
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.csproj.AssemblyReference.cache
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox__Picturebox_ve_Datetimepicker.Form1.resources
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox__Picturebox_ve_Datetimepicker.Properties.Resources.resources
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.csproj.GenerateResource.cache
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.AssemblyInfoInputs.cache
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.AssemblyInfo.cs
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.csproj.CoreCompileInputs.cache
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.dll
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\refint\Maskedtextbox, Picturebox ve Datetimepicker.dll
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.pdb
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\Maskedtextbox, Picturebox ve Datetimepicker.genruntimeconfig.cache
+C:\Users\HAZEL\Desktop\C# START\Maskedtextbox, Picturebox ve Datetimepicker\Maskedtextbox, Picturebox ve Datetimepicker\obj\Debug\net6.0-windows\ref\Maskedtextbox, Picturebox ve Datetimepicker.dll
